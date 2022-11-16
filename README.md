@@ -2,11 +2,6 @@
 # scAvengers -The E-Waste Management App
 ### scAvengers is an E-waste Management Application that allows users to sell e-waste scrap at any price they want. It has features for users sign-in/sign-up, If users are not satisfied with our price they can bargain also. Users can upload their scrap photos as well as receipts.
 
-# Team Members
-1. Antima Singh
-2. Aviral Pathak
-3. Nisha Kasan
-
 
 # Features
 1. users sign-in/sign-up with validation (authentication and Authorization).
